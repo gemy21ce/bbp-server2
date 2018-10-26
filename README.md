@@ -1,9 +1,9 @@
-# bbp-server2
+# Server2
 
 Calculator Service
 
 ##Service Definition
-
+- *Calc Endpoint* `http://localhost:8082/process/operation`
 - *Swagger UI* `http://localhost:8082/swagger-ui.html`
 - *Health Check* `http://localhost:8082/actuator/health`
 - *Http Trace* `http://localhost:8082/actuator/httptrace`
